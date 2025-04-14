@@ -3,7 +3,6 @@
 
 AI counselor is a mental health tool designed to help users overcome anxiety, stress, and insomnia by leveraging AI-driven therapy techniques. By using cognitive behavioral therapy for insomnia (CBT-I) principles, AI counselor reprograms negative thought patterns and promotes healthier mental habits.
 
-Our website: https://www.brainteqapp.com/
 
 Chatbot demo on mobile:
 
